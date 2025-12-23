@@ -1,0 +1,9 @@
+[general]
+name=MorphoStream
+qgisMinimumVersion=3.22
+description=Analisis morfometri sungai dan DAS
+version=1.0.0
+author=Patrisio Bimantara
+email=patrisiobimantara05@gmail.com
+icon=icon.png
+hasProcessingProvider=yes

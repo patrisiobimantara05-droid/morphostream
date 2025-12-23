@@ -1,0 +1,14 @@
+# Changelog MorphoStream
+
+## v1.0.0 (Desember 2025)
+- Rilis awal plugin MorphoStream
+- Fitur:
+  - Analisis morfometri sungai: Total river length, Drainage Density (Dd), Bifurcation Ratio (Rb), Sinuosity Index (SI)
+  - Analisis morfometri DAS: Form Factor (Ff), Circularity Ratio (Rc), Elongation Ratio (Re), Relative Relief (Rr), Dissection Index (Di), Mean Slope, Hypsometric Integral (HI), Compactness Coefficient (Cc)
+- Output otomatis ke CSV
+- Integrasi dengan Processing Toolbox QGIS
+
+## v1.1.0 (rencana)
+- Tambahan input DEM untuk slope & hypsometric curve otomatis
+- Visualisasi stream order langsung di peta
+- Export hasil ke Excel (.xlsx)
